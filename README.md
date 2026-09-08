@@ -24,7 +24,7 @@ Python (Pandas, Matplotlib), SQL (SQLite — CTEs, window functions), Power BI
 5. Visualized findings using Matplotlib and built an interactive Power BI dashboard with KPI cards, platform comparison charts, and a country × platform performance matrix
 
 ## Dashboard
-![Marketing Campaign Performance Dashboard](power_bi_dashboard.png)
+![Marketing Campaign Performance Dashboard](Power_BI_Dashboard.png)
 
 ## Visualization (Python)
-![ROAS by Platform](roas_by_platform.png)
+![ROAS by Platform](ROAS_by_Platform.png)
